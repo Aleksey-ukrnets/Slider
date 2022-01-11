@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.wrapper {
+  display: flex;
+}
+.mySwiper {
+  width: 100%;
+  height: 250px;
+  border: 1px solid black;
+  
+
+}
+.swipe {
+  background-image: url('images/im1.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
